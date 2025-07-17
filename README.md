@@ -10,8 +10,11 @@ An engaging web application to explore countries' details and their neighbors us
 
 ## File Structure
 CountryCards/ 
+
 ├── index.html   # Main HTML file 
+
 ├── styles.css   # Styling for the app 
+
 └── script.js    # Logic for fetching and displaying data
 
 ## How to Use
